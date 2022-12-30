@@ -1,0 +1,7 @@
+jdbc
+ url: this is oracle jdbc url
+ password: passwordDB
+ userName: DLOS
+ 
+ greetings
+  name: Krishan Rathore
